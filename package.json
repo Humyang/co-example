@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "babel": "babel-node index.js",
+    "advance": "babel-node advance.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
